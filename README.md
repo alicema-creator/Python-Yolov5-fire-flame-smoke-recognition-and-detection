@@ -5,6 +5,7 @@
 
 >**OCC Opencascade+Qt+C++三维图像建模窗体点线面拾取**  
 >**如需安装运行环境或远程调试，见文章底部名片(或直接加QQ:2945218359, QQ:905733049)，由专业技术人员远程协助！**  
+>**If you need help with setting up the runtime environment or remote debugging, please send an email to: lycdma@qq.com, and professional technical staff will assist you remotely!**
 
 
 
@@ -33,6 +34,17 @@
   <img src="https://github.com/alicema-creator/Python-Yolov8-Statistics-of-the-number-of-people-at-the-entrance-and-exit/blob/main/screenshot/qrcode.png" width="200">
   <img src="https://github.com/alicema-creator/Python-Yolov8-Statistics-of-the-number-of-people-at-the-entrance-and-exit/blob/main/screenshot/qrcode2.png" width="200">
 </a>
+
+## Online Assistance
+**If you need help with setting up the runtime environment or remote debugging, please send an email to: [lycdma@qq.com](mailto:lycdma@qq.com), and professional technical staff will assist you remotely!**
+
+**Services include:**
+1. **Remote setup of runtime environment, code debugging**  
+2. **Introduction to Qt, C++, Python**  
+3. **UI design and beautification**  
+4. **Software development**  
+5. **Cloud server application**  
+6. **Website development**
 
 
 <font color=#000000 size=4>**🏠作者推荐：**</font>  
